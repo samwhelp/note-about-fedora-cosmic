@@ -14,6 +14,7 @@
 
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
+* [如何](#如何)
 * [相關筆記](#相關筆記)
 
 
@@ -34,6 +35,15 @@
 | --- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-fedora-cosmic/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-fedora-cosmic/read/config/mousebind.html) |
+
+
+
+
+## 如何
+
+| [如何](https://samwhelp.github.io/note-about-fedora-cosmic/read/howto.html) |
+| ------- |
+| [如何在「Fedora」安裝「Cosmic Desktop」](https://samwhelp.github.io/note-about-fedora-cosmic/read/howto/install-cosmic-desktop.html) |
 
 
 
