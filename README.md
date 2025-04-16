@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Fedora Cosmic Adjustment](https://samwhelp.github.io/fedora-cosmic-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-cosmic-adjustment) |
 | [Fedora Cosmic 探索筆記](https://samwhelp.github.io/note-about-fedora-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-fedora-cosmic) |
+| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 
 
 
