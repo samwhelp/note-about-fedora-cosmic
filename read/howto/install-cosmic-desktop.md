@@ -8,6 +8,8 @@ parent: 如何
 
 # 如何在「Fedora」安裝「Cosmic Desktop」
 
+> 在「Fedora 42」，已經有「[Fedora COSMIC Spin](https://fedoraproject.org/spins/cosmic)」。
+
 * [參考文件](#參考文件)
 * [操作步驟](#操作步驟)
 
