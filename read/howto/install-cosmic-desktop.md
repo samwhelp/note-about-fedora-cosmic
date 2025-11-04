@@ -10,6 +10,9 @@ parent: 如何
 
 > 在「Fedora 42」，已經有「[Fedora COSMIC Spin](https://fedoraproject.org/spins/cosmic)」。
 
+
+> 以下是之前沒有時，所撰寫的內容。
+
 * [參考文件](#參考文件)
 * [操作步驟](#操作步驟)
 
