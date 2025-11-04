@@ -55,6 +55,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
+| [Cosmic 探索筆記](https://samwhelp.github.io/note-about-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-cosmic) |
 | [Popos Cosmic 探索筆記](https://samwhelp.github.io/note-about-popos-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-popos-cosmic) |
 | [Rust 探索筆記](https://samwhelp.github.io/note-about-rust/) | [GitHub](https://github.com/samwhelp/note-about-rust) |
 | [Just 探索筆記](https://samwhelp.github.io/note-about-just/) | [GitHub](https://github.com/samwhelp/note-about-just) |
