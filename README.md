@@ -26,6 +26,7 @@
 | 微調腳本 |
 | -------- |
 | [Fedora Cosmic Config](https://github.com/samwhelp/fedora-cosmic-adjustment/tree/main/prototype/main/cosmic-config/full/Main) |
+| [Tool Config](https://github.com/samwhelp/fedora-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
@@ -54,11 +55,11 @@
 | Link | GitHub |
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
-| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
-| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Popos Cosmic 探索筆記](https://samwhelp.github.io/note-about-popos-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-popos-cosmic) |
 | [Rust 探索筆記](https://samwhelp.github.io/note-about-rust/) | [GitHub](https://github.com/samwhelp/note-about-rust) |
 | [Just 探索筆記](https://samwhelp.github.io/note-about-just/) | [GitHub](https://github.com/samwhelp/note-about-just) |
-| [Popos Cosmic 探索筆記](https://samwhelp.github.io/note-about-popos-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-popos-cosmic) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 
 
 
